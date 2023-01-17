@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!-- ![](fringe.gif) -->
-<img src="fringe.gif" width="100%"/>
+<img src="fringe.gif" width="70%" align="center"/>
 <!--
 **berkgurdamar/berkgurdamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
