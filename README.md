@@ -1,5 +1,4 @@
 ### Hi there 👋
-<!-- <img src="fringe.gif" width="70%" align="center"/> -->
 <p align=center>
 <img width="70%" src="fringe.gif" />
 </p>
